@@ -1,6 +1,7 @@
 <img width="1327" height="748" alt="image" src="https://github.com/user-attachments/assets/b53bc795-5d6c-4ee9-bcd4-e36cf62d106a" />
 
-##**End-to-End Sales Analytics Architecture on Microsoft Fabric & Power BI**
+**End-to-End Sales Analytics Architecture on Microsoft Fabric & Power BI**
+
 📌 Project Overview
 This repository contains the complete implementation of an automated, cloud-based End-to-End Business Intelligence and Data Engineering solution built on top of the Microsoft Fabric SaaS platform. The project ingests raw internet-sourced sales data, processes it through multiple storage tiers (Lakehouse to Data Warehouse), and delivers a fully interactive, production-ready Power BI Dashboard running on the ultra-fast Direct Lake mode.
 ________________________________________
