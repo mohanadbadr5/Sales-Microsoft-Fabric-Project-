@@ -1,5 +1,10 @@
 <img width="1327" height="748" alt="image" src="https://github.com/user-attachments/assets/b53bc795-5d6c-4ee9-bcd4-e36cf62d106a" />
 
+<img width="1918" height="877" alt="image" src="https://github.com/user-attachments/assets/c781ff6d-9c6d-4446-bd5e-dae34ecab5db" />
+
+<img width="1918" height="875" alt="image" src="https://github.com/user-attachments/assets/3551a925-4cd1-4e30-a00b-bea46516b0e6" />
+
+
 **End-to-End Sales Analytics Architecture on Microsoft Fabric & Power BI**
 
 📌 Project Overview
